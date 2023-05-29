@@ -1,0 +1,23 @@
+{
+  "name": "pyrex-vision",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magjoker/PYREX-VISION.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magjoker/PYREX-VISION/issues"
+  },
+  "homepage": "https://github.com/magjoker/PYREX-VISION#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
+  }
+}
